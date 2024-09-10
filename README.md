@@ -16,3 +16,11 @@ MQTT over WiFi, or using an IR remote.
 - [Schematic](./pictures/lightweather_schematic.pdf)
 - [Firmware](./firmware/)
 
+The hardware and firmware are open-source, the firmware (everything in
+the [firmare](./firmware/) directory) is licensed under the
+[GPL V3](./firmware/LICENSE).
+The hardware (everything else) is licensed under the
+[CERN Open Hardware Licence Version 2 - Strongly Reciprocal](./LICENSE).
+The general gist is that if you feel like using or modifying anything here,
+good luck, have fun, and publish what you make as open-source too.
+
