@@ -17,7 +17,7 @@ MQTT over WiFi, or using an IR remote.
 - [Firmware](./firmware/)
 
 The hardware and firmware are open-source, the firmware (everything in
-the [firmare](./firmware/) directory) is licensed under the
+the [firmware](./firmware/) directory) is licensed under the
 [GPL V3](./firmware/LICENSE).
 The hardware (everything else) is licensed under the
 [CERN Open Hardware Licence Version 2 - Strongly Reciprocal](./LICENSE).
